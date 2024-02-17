@@ -1,0 +1,2 @@
+# aadauthorization
+authorization from AAD 
